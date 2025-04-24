@@ -632,7 +632,7 @@ int main(int argc, char *argv[])
 	sfree(ligand->a);
 	free_rotplan();
 	current_cpu_time(&ih,&im,&is,&ims);
-	printf("==> %s + %s DOCKING RUNTIME: %2d:%2d:%2d:%2d \n",argv[2],argv[3],ih,im,is,ims);
+	printf("==> %s + %s DOCKING RUNTIME: %2d:%2d:%2d:%2d \n",argv[1],argv[2],ih,im,is,ims);
 
 	return EXIT_SUCCESS;
 }
