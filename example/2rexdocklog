@@ -88,7 +88,7 @@ print pocket water 2REX/2REXLwat.pdb!
  96.82
  98.84
 100.00
-==> 2REX/2REXL.pdb + -o DOCKING RUNTIME:  0:30:54:61 
+==> 2REX/2REXR.pdb + 2REX/2REXL.pdb DOCKING RUNTIME:  0:35:21:15 
                              SDOCK2.0
   Global Protein-Protein Docking Using Stepwise Force-Field Potentials   
  Copyright (c) 2024 Molecular design lab in Peking university, Beijing, China
@@ -5356,7 +5356,7 @@ print pocket water 2REX/2REXLwat.pdb!
  99.96
  99.98
 100.00
-==> 2REX/2REXL.pdb + 2REX/2REXRwat.pdb DOCKING RUNTIME:  0:34:23:38 
+==> 2REX/2REXR.pdb + 2REX/2REXL.pdb DOCKING RUNTIME:  0:39: 0:11 
                              SDOCK2.0
   Global Protein-Protein Docking Using Stepwise Force-Field Potentials   
  Copyright (c) 2024 Molecular design lab in Peking university, Beijing, China
